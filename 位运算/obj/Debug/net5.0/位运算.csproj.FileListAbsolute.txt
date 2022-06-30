@@ -1,0 +1,16 @@
+C:\Users\ASUS\RiderProjects\位运算\obj\Debug\net5.0\位运算.csproj.AssemblyReference.cache
+C:\Users\ASUS\RiderProjects\位运算\obj\Debug\net5.0\位运算.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\RiderProjects\位运算\obj\Debug\net5.0\位运算.AssemblyInfoInputs.cache
+C:\Users\ASUS\RiderProjects\位运算\obj\Debug\net5.0\位运算.AssemblyInfo.cs
+C:\Users\ASUS\RiderProjects\位运算\obj\Debug\net5.0\位运算.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\RiderProjects\位运算\bin\Debug\net5.0\位运算.exe
+C:\Users\ASUS\RiderProjects\位运算\bin\Debug\net5.0\位运算.deps.json
+C:\Users\ASUS\RiderProjects\位运算\bin\Debug\net5.0\位运算.runtimeconfig.json
+C:\Users\ASUS\RiderProjects\位运算\bin\Debug\net5.0\位运算.runtimeconfig.dev.json
+C:\Users\ASUS\RiderProjects\位运算\bin\Debug\net5.0\位运算.dll
+C:\Users\ASUS\RiderProjects\位运算\bin\Debug\net5.0\ref\位运算.dll
+C:\Users\ASUS\RiderProjects\位运算\bin\Debug\net5.0\位运算.pdb
+C:\Users\ASUS\RiderProjects\位运算\obj\Debug\net5.0\位运算.dll
+C:\Users\ASUS\RiderProjects\位运算\obj\Debug\net5.0\ref\位运算.dll
+C:\Users\ASUS\RiderProjects\位运算\obj\Debug\net5.0\位运算.pdb
+C:\Users\ASUS\RiderProjects\位运算\obj\Debug\net5.0\位运算.genruntimeconfig.cache
