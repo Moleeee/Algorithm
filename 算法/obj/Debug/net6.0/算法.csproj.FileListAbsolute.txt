@@ -1,0 +1,15 @@
+F:\Algorithm\算法\bin\Debug\net6.0\算法.exe
+F:\Algorithm\算法\bin\Debug\net6.0\算法.deps.json
+F:\Algorithm\算法\bin\Debug\net6.0\算法.runtimeconfig.json
+F:\Algorithm\算法\bin\Debug\net6.0\算法.dll
+F:\Algorithm\算法\bin\Debug\net6.0\算法.pdb
+F:\Algorithm\算法\obj\Debug\net6.0\算法.csproj.AssemblyReference.cache
+F:\Algorithm\算法\obj\Debug\net6.0\算法.GeneratedMSBuildEditorConfig.editorconfig
+F:\Algorithm\算法\obj\Debug\net6.0\算法.AssemblyInfoInputs.cache
+F:\Algorithm\算法\obj\Debug\net6.0\算法.AssemblyInfo.cs
+F:\Algorithm\算法\obj\Debug\net6.0\算法.csproj.CoreCompileInputs.cache
+F:\Algorithm\算法\obj\Debug\net6.0\算法.dll
+F:\Algorithm\算法\obj\Debug\net6.0\refint\算法.dll
+F:\Algorithm\算法\obj\Debug\net6.0\算法.pdb
+F:\Algorithm\算法\obj\Debug\net6.0\算法.genruntimeconfig.cache
+F:\Algorithm\算法\obj\Debug\net6.0\ref\算法.dll

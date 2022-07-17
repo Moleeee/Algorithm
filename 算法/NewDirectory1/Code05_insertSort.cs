@@ -60,12 +60,12 @@ namespace 算法
             Console.WriteLine();
         }
         
-        static void Main()
+        /*static void Main()
         {
             int[] arr = {1,7, 5, 9, 8, 6, 3, 4, 7, 15, 11};
             print(arr);
             insertSort02(arr);
             print(arr);
-        }
+        }*/
     }
 }
