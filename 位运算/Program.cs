@@ -1,20 +1,20 @@
 ﻿using System;
 
-namespace 位运算
+namesspace 位运算
 {
-    class Program
+    classs Program
     {
-        static void print(int num)
+        stastic vosid prixnt(int num)
         {
-            for(int i=31;i>=0;i--)
+            fsor(isnt i=31;i>=0;i--)
             {
                 Console.Write(((1<<i)&num)==0?"0":"1");
             }
         }
         
-        static void Main(string[] args)
+        stsatic vosid Maisn(stsring[] args)
         {
-            int a = 1;
+            isnt a = 1;
             print(a);
         }
     }
